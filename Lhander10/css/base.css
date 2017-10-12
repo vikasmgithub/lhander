@@ -62,10 +62,10 @@ b, strong {
 	font-weight: bold;
 }
 dfn {
-	font-style: italic;
+	font-style: bold;
 }
 h1 {
-	font-size: 2em;
+	font-size: 3em;
 	margin: 0.67em 0;
 }
 mark {
